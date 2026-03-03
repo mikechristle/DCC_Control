@@ -1,0 +1,16 @@
+Parts List
+
+Designation Description                 Digikey PN
+A1          Raspberry Pi Pico           SC0915
+C1 C2       Cap 1 uF
+C3          Cap 0.47 uF
+C4 C5 C6    Cap 0.1 uF
+D1          Schottky Diode 1N5817       497-4547-1-ND
+U1 U2 U3    Half-H Driver SN754410      296-9911-5-ND
+U4          Voltage Regulator L78M05    497-1203-1-ND
+J1 J3 J4    6 Wire Connector            277-1798-ND
+J2          16 Wire Connector           277-1808-ND
+J5 J6       2 Pin Connector
+
+            Hall Effect Sensor          96-DRV5032FALPGMCT-ND
+            Magnet                      469-8905-ND
